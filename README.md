@@ -1,4 +1,5 @@
 # **My Projects**
+A compilation of Meldrick's projects.
 
 ## [Project 1: Property-Price-Prediction](https://github.com/MeldrickWee/Property-Price-Prediction)
 - A regression project using the Melbourne Housing dataset from Kaggle.
