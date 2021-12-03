@@ -7,4 +7,4 @@ A compilation of projects. Click on the project title to go to the project repos
 - Preprocessed the data by label encoding categorical features and filling in missing values with KNN Imputer.
 - Tuned the hyperparameters of a XGBoost Regressor and fitted the best model to the dataset.
 
-![](https://github.com/MeldrickWee/My-Projects/blob/main/images/property_price_distribution.png)
+![](https://github.com/MeldrickWee/My-Projects/blob/main/images/price_distribution_v1.2.png)
