@@ -8,3 +8,6 @@ A compilation of projects. Click on the project title to go to the project repos
 - Tuned the hyperparameters of a XGBoost Regressor and fitted the best model to the dataset.
 
 ![](https://github.com/MeldrickWee/My-Projects/blob/main/images/price_distribution.png)
+
+## [Project 2: Student-Grade-Prediction](https://github.com/MeldrickWee/Student-Grade-Prediction)
+- Readme under construction...
